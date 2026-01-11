@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.log
+target_data.json
+lazarus_core/data/raw/*
+lazarus_core/data/evidence/*

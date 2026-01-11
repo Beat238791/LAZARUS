@@ -1,0 +1,41 @@
+{
+  "name": "jrefrey dahmer",
+  "scan_timestamp": "2026-01-12T01:43:14.429765",
+  "documents": [],
+  "web_data": [
+    {
+      "url": "https://twitter.com/username",
+      "type": "web_scrape",
+      "content": "JavaScript is not available.\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\nHelp Center\nTerms of Service\nPrivacy Policy\nCookie Policy\nImprint\nAds info\n© 2026 X Corp.\nSomething went wrong, but don’t fret — let’s give it another shot.Try again Some privacy related extensions may cause issues on x.com. Please disable them and try again.",
+      "word_count": 82,
+      "timestamp": "2026-01-12T01:39:54.313887"
+    }
+  ],
+  "social_media": [],
+  "profile": {
+    "primary_traits": [
+      "Narcissistic",
+      "Manipulative",
+      "Charm"
+    ],
+    "behavioral_patterns": [
+      "Seeks admiration and validation",
+      "Difficulty with genuine empathy",
+      "Exploits others for personal gain"
+    ],
+    "emotional_triggers": [
+      "Rejection",
+      "Criticism",
+      "Loss of Control"
+    ],
+    "background": "jrefrey dahmer exhibits classic narcissistic personality traits with manipulative tendencies.",
+    "psychological_markers": {
+      "empathy_level": "Low",
+      "impulse_control": "Moderate",
+      "emotional_stability": "Unstable",
+      "social_manipulation": "High"
+    },
+    "communication_style": "Charismatic but self-centered, deflects accountability",
+    "threat_assessment": "Moderate - Primarily psychological manipulation"
+  }
+}
