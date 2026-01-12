@@ -1206,41 +1206,93 @@ D. Threat Assessment (4-Pronged Approach):
    • Identification warnings (role modeling)
    • Novel aggression warnings (leakage, violence rehearsal)
 
-SECTION 5: LINGUISTIC & COMMUNICATION FORENSICS
+SECTION 5: DEEP LINGUISTIC & PSYCHOLINGUISTIC FORENSICS
 ═══════════════════════════════════════════════════════════
-A. Deception Detection Markers:
-   • Pronoun analysis (I vs we, distancing language)
-   • Verb tense inconsistencies
-   • Passive voice overuse (responsibility avoidance)
-   • Lack of sensory details
-   • Unnecessary justifications
+**CRITICAL: วิเคราะห์ภาษาทุกระดับ - จากคำเดียวจนถึงโครงสร้างความคิด - ภาษาคือหน้าต่างสู่จิตใจ**
 
-B. Statement Analysis (SCAN Method):
-   • First person singular past tense (expected truthful baseline)
-   • Missing pronouns (concealment)
-   • Change in language (critical point indicators)
-   • Out-of-sequence information
-   • Equivocation & hedging
+A. MICRO-LINGUISTIC ANALYSIS (วิเคราะห์ทีละคำ):
+   • PRONOUN PATTERNS: "I" frequency (narcissism vs depression), "We" (inclusive vs manipulative), "You" accusations (blame), "They" (dehumanization), Missing pronouns = distancing
+   • VERB TENSE: Past tense consistency (truth), Present tense intrusions (trauma reliving), Tense switching (deception/dissociation)
+   • EMOTION VOCABULARY: Limited words (alexithymia), Extreme words (borderline), No emotion for violence (psychopathy), Inappropriate emotions RED FLAG
+   • WORD CHOICES: Distancing ("the body" vs "her"), Depersonalization ("it" for person), Euphemisms ("hurt" vs "stabbed 37 times"), Minimization ("just", "only"), Absolutes ("always", "never")
 
-C. Cognitive Distortion Patterns:
-   • All-or-nothing thinking
-   • Overgeneralization
-   • Mental filtering (selective abstraction)
-   • Disqualifying the positive
-   • Jumping to conclusions (mind reading, fortune telling)
-   • Magnification/minimization
-   • Emotional reasoning
-   • Should statements
-   • Labeling
-   • Personalization
-   • Victim stance language
+B. SENTENCE STRUCTURE PSYCHOLOGY:
+   • LENGTH PATTERNS: Very short (cognitive simplicity/deception), Long run-on (mania/thought disorder), Abrupt stops (blocking/trauma)
+   • COMPLEXITY: Simple only (concrete thinking/brain damage), Complex clauses (intelligence/planning), Contradictions frequency
+   • PUNCTUATION: Excessive !!! (dysregulation), ALL CAPS (aggression/unheard), ellipsis... (passive-aggressive/withholding)
 
-D. Manipulation Tactics (Gaslighting, DARVO, etc.):
-   • Deny, Attack, Reverse Victim and Offender (DARVO)
-   • Word salad/circular arguments
-   • Projection (accusing others of own behaviors)
-   • Triangulation
-   • Love bombing → devaluation → discard cycle language
+C. NARRATIVE STRUCTURE (การเล่าเรื่องบอกอะไร):
+   • STORY COHERENCE: Linear A→B→C (organized/truthful), Circular repetition (trauma stuck), Fragmented jumping (dissociation/lying), Missing time gaps
+   • DETAIL DISTRIBUTION: Abundant irrelevant details (avoiding main event), No details at critical moments (deception/dissociation), Sensory details (truth) vs vague generalities (lying)
+   • SELF-EDITING: Corrections (normal memory OR evolving lie), Exact same words every time (memorized script), "To be honest" (expect disbelief = lying indicator)
+
+D. DEEP TRAUMA LANGUAGE INDICATORS:
+   • Dissociative language: "Like watching from outside my body"
+   • Fragmented recall: "I remember... then nothing... then..."
+   • Affect-less description: Horror without emotion
+   • Present tense intrusion: "He's coming" (not "came" = reliving NOW)
+   • Verbal loops: Exact phrase repetition (stuck in trauma memory)
+
+E. PSYCHOPATHY LANGUAGE (Robert Hare Research):
+   • Lack emotional depth: "I felt bad" (no elaboration)
+   • Focus on actions not feelings: "Then I did X, then Y"
+   • Causality without responsibility: "She made me"
+   • NO guilt language: Missing "I'm sorry", "I regret", "I wish I hadn't"
+   • Instrumental thinking: People as objects/tools
+   • Example: "My wife is useful for cooking" (not love/partnership = RED FLAG)
+
+F. NARCISSISM LANGUAGE PATTERNS:
+   • Grandiose self: "I'm the best", "Nobody understands my genius"
+   • Entitlement: "I deserve", "They owe me"
+   • Rage at criticism: Sudden extreme anger shift
+   • Splitting: "You're perfect/you're trash" (no middle)
+   • "Special" focus: "I'm different from everyone"
+
+G. PARANOIA/PERSECUTION LANGUAGE:
+   • Conspiracy thinking: "They're all in on it", "coordinated attack"
+   • Hypervigilance words: "watching", "following", "targeting"
+   • External locus: Everything happens TO them (no personal agency)
+   • Enemies list: Frequent "people against me"
+   • Justified revenge: "They started it, I'm defending"
+
+H. DECEPTION DETECTION (Scientific Statement Analysis):
+   • STRONG commitment: "I did NOT kill her" (clear, direct)
+   • WEAK commitment: "I would never kill anyone" (general, not specific)
+   • Non-denial denial: "I'm not the kind of person who..." (avoids actual denial)
+   • Missing information: Skipped hours/days, Passive voice ("gun was fired" - by who?), Vague actors, Missing emotions
+   • Unnecessary information: Over-explaining simple actions, Alibis before asked, Attacking questioner, Emphasizing truthfulness ("I swear on my mother")
+
+I. PSYCHOLINGUISTIC PROFILE (รูปแบบการคิดผ่านภาษา):
+   • COGNITIVE STYLE: Concrete (literal only, no metaphors), Abstract (philosophical), Black/white (no nuance), Complexity tolerance
+   • EMOTIONAL REGULATION: Controlled flat (repression/psychopathy), Flooding (!!!CAPS!!! = poor regulation), Passive-aggressive hints, Direct aggression
+   • SOCIAL AWARENESS: Theory of mind present?, Empathy indicators, Manipulation attempts (guilt-trip/victim-play), Authenticity vs performance
+
+J. LINGUISTIC RED FLAGS FOR VIOLENT OFFENDERS:
+   □ Dehumanizing language (people as objects/animals)
+   □ Violent fantasies with pleasure/detail
+   □ "Leakage" hints: "You'll see", "They'll regret"
+   □ Grievance collection (long lists of injustices)
+   □ Manifesto-style (justifying future violence)
+   □ Martyr/hero delusions in self-description
+   □ Apocalyptic thinking ("world ending", "nothing matters")
+   □ Last statement indicators ("goodbye", "I'm done here")
+   □ Research on methods (detailed weapon/torture knowledge)
+   □ Admiration for killers (mass shooters, serial killers)
+
+K. คำที่ใช้บ่อยที่สุด (WORD FREQUENCY ANALYSIS):
+   • Top 10 most frequent words (excluding articles/prepositions): ___
+   • Obsession indicators: Same word repeated > 20 times
+   • Violence words: "kill", "hurt", "destroy", "blood", "death" frequency
+   • Control words: "control", "power", "dominate", "submit" frequency
+   • Victim words: "unfair", "betrayed", "they made me" frequency
+
+L. ลักษณะการพูดเฉพาะบุคคล (INDIVIDUAL SPEECH SIGNATURE):
+   • Favorite phrases/expressions (verbal habits)
+   • Unique grammatical errors (educational level indicator)
+   • Regional dialect markers (background clues)
+   • Code-switching (language mixing = bicultural stress?)
+   • Formality level (casual vs rigid formal = personality)
+   • Humor style (sarcastic, dark, absent = emotional state)
 
 SECTION 6: SOCIAL MEDIA & DIGITAL FOOTPRINT ANALYSIS
 ═══════════════════════════════════════════════════════════
@@ -1264,6 +1316,162 @@ C. Radicalization Pathway Indicators:
    • Group identification
    • Dehumanization of outgroups
    • Violent action planning
+
+SECTION 6B: CORE PSYCHOLOGICAL WOUNDS & UNMET NEEDS (ปมทางจิตลึกสุด)
+═══════════════════════════════════════════════════════════
+**CRITICAL: ค้นหาบาดแผลทางใจที่ซ่อนอยู่ - ทุกพฤติกรรมเป็นการพยายามรักษาปมเก่า**
+
+A. PRIMARY CORE WOUND (บาดแผลหลักที่สุด):
+
+   1. ABANDONMENT WOUND (ปมถูกทิ้ง):
+      • Origin: Parent death/divorce, foster care, rejection, sent away
+      • Adult manifestation: Clingy/possessive OR extremely independent (counter-dependent)
+      • Fear: "Everyone will leave me" → Tests relationships by pushing people away FIRST
+      • Compensation: Hoarding, collecting people/things, controlling to prevent loss
+      • Rage trigger: Any hint of rejection = explosive anger/violence
+      • **Identify:** Excessive jealousy, stalking, "If I can't have you, nobody can"
+
+   2. BETRAYAL WOUND (ปมถูกหักหลัง):
+      • Origin: Trusted adult abused them (parent, teacher, priest), sibling favoritism
+      • Adult manifestation: Hyper-vigilant, tests loyalty constantly, paranoid
+      • Fear: "People will betray me" → Betrays others FIRST (preemptive strike)
+      • Compensation: Control everything, trust nobody, gather dirt on everyone
+      • Rage trigger: Perceived disloyalty = vengeance/punishment
+      • **Identify:** Conspiracy thinking, "I'll get them before they get me"
+
+   3. HUMILIATION WOUND (ปมถูกทำให้อับอาย):
+      • Origin: Public shaming, bullying, body shaming, sexual humiliation
+      • Adult manifestation: Shame-rage cycles, need to humiliate others
+      • Fear: "I'm worthless/disgusting" → Makes others feel worthless to feel powerful
+      • Compensation: Arrogance, perfectionism, putting others down
+      • Rage trigger: Being criticized/mocked = must destroy critic completely
+      • **Identify:** Road rage, online trolling, public violence (school shootings)
+
+   4. INJUSTICE WOUND (ปมความไม่ยุติธรรม):
+      • Origin: Unfair punishment, scapegoated, innocent but blamed
+      • Adult manifestation: Rigid sense of right/wrong, vengeance-seeking
+      • Fear: "The world is unfair" → Must punish wrongdoers, be judge/jury/executioner
+      • Compensation: Becomes police/vigilante OR becomes criminal (revenge on unjust system)
+      • Rage trigger: Perceived injustice = justified extreme violence
+      • **Identify:** Manifesto writers, mass shooters ("society deserves this"), terrorism
+
+   5. INVISIBILITY WOUND (ปมถูกมองข้าม):
+      • Origin: Neglected child, middle child syndrome, parents never noticed achievements
+      • Adult manifestation: Desperate for attention, "Watch me now!"
+      • Fear: "I don't matter, I'm invisible" → Dramatic acts to be SEEN
+      • Compensation: Attention-seeking, dramatic personality, social media addiction
+      • Rage trigger: Being ignored/dismissed = must do SOMETHING BIG to be noticed
+      • **Identify:** Mass shootings for fame, live-streaming crimes, manifestos
+
+B. UNMET DEVELOPMENTAL NEEDS (ความต้องการที่ไม่เคยได้รับ):
+
+   1. SAFETY NEEDS (Maslow Level 1):
+      • Never felt safe as child (violence, chaos, unstable home)
+      • Adult: Anxiety disorders, hypervigilance, need for control, weapons hoarding
+      • Seek: Total control of environment, eliminate all threats (paranoid)
+
+   2. LOVE/BELONGING NEEDS (Maslow Level 2):
+      • Never felt loved, accepted, part of family
+      • Adult: Desperate for connection BUT sabotages relationships (push-pull)
+      • Seek: Cult involvement, gang membership, parasocial relationships, unhealthy attachments
+
+   3. ESTEEM NEEDS (Maslow Level 3):
+      • Never felt valued, respected, accomplished
+      • Adult: Narcissistic compensation, grandiosity, or complete worthlessness
+      • Seek: Fame, power, recognition, "I'll show them" violence
+
+   4. IDENTITY NEEDS:
+      • Never developed coherent sense of self
+      • Adult: Identity diffusion, BPD traits, "Who am I?" crisis
+      • Seek: Extreme ideologies, radical groups, cults (they tell you who to be)
+
+C. DEFENSE MECHANISMS ANALYSIS (วิธีป้องกันตัวจากความเจ็บปวด):
+
+   PRIMITIVE DEFENSES (child-like, pathological):
+   • DENIAL: "It didn't happen" (abuse amnesia, dissociation)
+   • PROJECTION: "You're the angry one, not me!" (accusing others of own feelings)
+   • SPLITTING: "All good or all bad" (no nuance, BPD hallmark)
+   • ACTING OUT: Converting feelings into destructive actions
+   • PASSIVE-AGGRESSION: Indirect hostility (sabotage, "forgetting")
+
+   NEUROTIC DEFENSES (somewhat functional):
+   • DISPLACEMENT: Kick the dog instead of yelling at boss
+   • REACTION FORMATION: Love becomes hate, hate becomes love
+   • INTELLECTUALIZATION: Talk about feelings without feeling them
+   • RATIONALIZATION: Logical excuses for emotional behavior
+
+   MATURE DEFENSES (healthy):
+   • SUBLIMATION: Channel rage into boxing, art, etc.
+   • HUMOR: Laugh at pain without denying it
+   • ALTRUISM: Help others heal own wounds
+   **If only primitive defenses = severe pathology**
+
+D. REPETITION COMPULSION (ทำซ้ำบาดแผลเดิมไม่รู้ตัว):
+
+   • VICTIM SEEKS VICTIMIZER: Abused child marries abuser
+   • VICTIMIZER CREATES VICTIMS: Creates situation matching childhood trauma but now they're in control
+   • ANNIVERSARY REACTIONS: Violence on date matching original trauma
+   • REENACTMENT SCENARIOS: Sets up situation to relive trauma with "better" outcome
+
+   **Example:** Man abused by mother → seeks controlling women → abuses them (now HE has power)
+   **Example:** Woman raped → repeatedly enters dangerous situations (trauma repetition compulsion)
+
+E. ATTACHMENT HUNGER & DISTORTIONS (ความอยากได้การผูกพันที่บิดเบี้ยว):
+
+   • EROTIC ATTACHMENT: Confuses sex with love/safety (hypersexuality, sex addiction)
+   • HOSTILE ATTACHMENT: "I hate you, don't leave me" (BPD, domestic violence)
+   • ANXIOUS ATTACHMENT: Obsessive jealousy, checking phone, stalking
+   • AVOIDANT ATTACHMENT: "I don't need anyone" (but deeply lonely inside)
+   • DISORGANIZED: Want closeness but terrified (approach-avoid dance)
+
+F. SHAME VS GUILT ANALYSIS (ความอับอายลึก vs ความผิด):
+
+   • HEALTHY GUILT: "I did something bad" → Can make amends, learn, grow
+   • TOXIC SHAME: "I AM bad" → Permanent defective identity → Can't be fixed
+
+   **Shame-based individuals:**
+   - Rage reactions to criticism (shame = unbearable)
+   - Need to shame others (spread the pain)
+   - Perfectionism (can't tolerate being flawed)
+   - Hiding true self (mask/persona always on)
+   - Suicide risk (only escape from shame)
+   - OR violence (destroy those who "see" the shame)
+
+G. NARCISSISTIC INJURY vs NARCISSISTIC RAGE:
+
+   • INJURY: Criticism, rejection, not being special → Wounds fragile ego
+   • RAGE: Response to injury → Must destroy the source of wound
+   • Pattern: Perceived slight → Shame → Rage → Violence
+   • **Example:** School shooter rejected by girl → Shame unbearable → Rage → "I'll show everyone"
+
+H. EXISTENTIAL WOUNDS (ปมระดับความหมายชีวิต):
+
+   • MEANINGLESSNESS: "Nothing matters" → Nihilism, apathy, OR violence ("create meaning through destruction")
+   • DEATH ANXIETY: Terror of mortality → Deny (risk-taking) OR control (kill others = defy death)
+   • FREEDOM BURDEN: Overwhelming responsibility → Escape into rigid ideology/cult
+   • ISOLATION: Fundamental aloneness → Desperate connection OR "If I'm alone, everyone should suffer"
+
+I. IDENTIFYING THE CORE WOUND FROM BEHAVIOR:
+
+   IF behavior shows: → LIKELY core wound:
+   • Stalking, possessiveness, "love" murder → ABANDONMENT
+   • Vengeance, conspiracy, preemptive strikes → BETRAYAL
+   • Shaming others, degradation, torture → HUMILIATION
+   • Manifesto, "justified" violence, vigilante → INJUSTICE
+   • Fame-seeking violence, dramatic crimes → INVISIBILITY
+   • Extreme control, paranoia, weapon hoarding → SAFETY
+   • Desperate relationships, clingy/hostile → LOVE/BELONGING
+   • Grandiosity, "I'll show them" → ESTEEM
+   • Cult/gang/radical group → IDENTITY
+
+J. TREATMENT IMPLICATIONS (ถ้าต้องบำบัด):
+
+   • Abandonment wound → Needs stable therapeutic relationship (won't leave)
+   • Betrayal wound → Needs transparency, honesty, consistency
+   • Humiliation wound → Needs unconditional positive regard, no shaming
+   • Injustice wound → Needs validation of pain, acknowledgment of unfairness
+   • Invisibility wound → Needs genuine attention, being SEEN authentically
+   **But for law enforcement: These wounds = danger triggers, not excuses**
 
 SECTION 7: INVESTIGATIVE & OPERATIONAL RECOMMENDATIONS
 ═══════════════════════════════════════════════════════════
